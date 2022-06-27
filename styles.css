@@ -77,3 +77,12 @@ nav a {
   align-items: center;
   gap: 2rem;
 }
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+.img-container {
+  gap: 1.5rem;
+}
